@@ -24,6 +24,7 @@ php artisan key:generate
 ### 3. Frontend Setup
 ```
 cd frontend
+cp .env.example .env
 npm install
 npm run dev
 ```
