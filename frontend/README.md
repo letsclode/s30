@@ -1,3 +1,19 @@
+
+# Laravel React User Roles Frontend
+
+This is the frontend for the **Laravel React User Roles Management System**. It provides a user-friendly interface for managing users and their roles, communicating with a Laravel backend via RESTful APIs.
+
+## Project Overview
+
+This application allows administrators to:
+- View, add users
+- Assign and manage user roles
+- Interact with a secure backend built in Laravel
+
+The frontend is built with React and TypeScript, and styled for a modern, responsive experience. It connects to the backend API for all user and role management operations.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
